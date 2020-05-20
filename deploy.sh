@@ -12,4 +12,4 @@ git init
 git add .
 git commit -m 'deploy'
 
-git push -f https://github.com/suwenyu/suwenyu.github.io.git master:gh-pages
+git push -f git@github.com:suwenyu/uwenyu.github.io.git master:gh-pages

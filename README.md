@@ -1,4 +1,6 @@
-# tmp
+# Personal Website
+
+Created by using VueJS Framework and Bootstrap Template.
 
 ## Project setup
 ```
