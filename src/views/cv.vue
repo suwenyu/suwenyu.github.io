@@ -1,3 +1,3 @@
 <template>
-  <pdf src="@/assets/Wen-Yuh_Su_Resume.pdf"></pdf>
+  <pdf src="./static/Wen-Yuh_Su_Resume.pdf"></pdf>
 </template>

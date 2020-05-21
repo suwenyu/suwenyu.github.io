@@ -10,10 +10,12 @@ import SuiVue from 'semantic-ui-vue';
 Vue.config.productionTip = false
 
 Vue.use(SuiVue);
-require('@/assets/css/mystyle.css')
+
 
 import 'semantic-ui-css/semantic.min.css';
 import 'terminal.css'
+require('@/assets/css/mystyle.css');
+
 
 new Vue({
   router,

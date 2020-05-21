@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <div class="container">
-            <div class="terminal-nav">
+            <div class="terminal-nav" style="font-size: 18px;">
                 <header class="terminal-logo">
                     <div class="logo terminal-prompt">
                         <router-link to="/">Wen-Yuh Su</router-link>
@@ -21,6 +21,11 @@
                             <router-link to="/proj"><span property="name">Project</span>
                             </router-link>
                             <meta property="position" content="2">
+                        </li>
+                        <li property="itemListElement" typeof="ListItem">
+                            <a href="static/Wen-Yuh_Su_Resume.pdf"><span property="name">Resume</span>
+                            </a>
+                            <meta property="position" content="3">
                         </li>
                     </ul>
                 </nav>
@@ -45,7 +50,16 @@ export default {
 #app {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
     color: #2c3e50;
+
+}
+.header{
+    font-size:24px;
+}
+.title {
+    font-size:18px;
+}
+span {
+    font-size:18px;
 }
 </style>

@@ -1,14 +1,12 @@
 <template>
   <div class="container">
-      <div>
-          <h2 style="text-align: center;">Education</h2>
-      </div>
+    <p class="header" style="text-align: center;">Education</p>
     <sui-item-group>
     <sui-item>
       <sui-item-image src="static/images/uic.png" />
       <sui-item-content>
         <sui-item-description>
-          <p>
+          <p class="title">
             <strong>University of Illinois, Chicago</strong> 
           </p>
           <p>
@@ -24,7 +22,7 @@
       <sui-item-image src="static/images/nccu_logo.png" />
       <sui-item-content>
         <sui-item-description>
-          <p>
+          <p class="title">
             <strong>National Chengchi University</strong> 
           </p>
           <p>
