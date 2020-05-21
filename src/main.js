@@ -4,8 +4,16 @@ import App from './App.vue'
 import router from './router'
 import pdf from 'vue-pdf'
 
+import SuiVue from 'semantic-ui-vue';
+
+
 Vue.config.productionTip = false
 
+Vue.use(SuiVue);
+require('@/assets/css/mystyle.css')
+
+import 'semantic-ui-css/semantic.min.css';
+import 'terminal.css'
 
 new Vue({
   router,
