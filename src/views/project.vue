@@ -66,10 +66,10 @@
         </sui-item-meta>
         <sui-item-description>
           <p>
-            Applied a sequential model with Bi-LSTM features and Bi-LSTM attention by using Tensorflow on the Stanford Question Answering Dataset.
+            Implemented check-in kiosk by using Django Framework and MySQL, and visualized the process by using Bootstrap UI framework.
           </p>
           <p>
-            Achieved the performance of 68 percent of F1 and 54 percnet of exact match score and surpassed the basic attention sequential model.
+            Designed Restful API for customers to check in and update their personal information. For doctors, the system allows doctors to update users' status.
           </p>
 
           <p>
