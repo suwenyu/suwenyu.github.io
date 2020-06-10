@@ -8,7 +8,8 @@ npm run build
 
 
 cd dist
-git init 
+cp ../README.md .
+git init
 git add .
 git commit -m 'deploy'
 

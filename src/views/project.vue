@@ -17,7 +17,7 @@
             Applied a sequential model with Bi-LSTM features and Bi-LSTM attention by using Tensorflow on the Stanford Question Answering Dataset.
           </p>
           <p>
-            Achieved the performance of 68 percent of F1 and 54 percnet of exact match score and surpassed the basic attention sequential model.
+            Achieved the performance of 68 percent of F1 and 54 percent of exact match score and surpassed the basic attention sequential model.
           </p>
 
           <p>
@@ -40,10 +40,10 @@
         </sui-item-meta>
         <sui-item-description>
           <p>
-            Built a CRF Model with convolutional features by using PyTorch on optical character recognition dataset.
+            Built a CRF Model with convolutional features by using PyTorch on the optical character recognition dataset.
           </p>
           <p>
-            Achieved the performance of 83 percent of letter accuracy and 43 percnet of word accuracy and surpassed the basic CRF model.
+            Achieved the performance of 83 percent of letter accuracy and 43 percent of word accuracy and surpassed the basic CRF model.
           </p>
 
           <p>
